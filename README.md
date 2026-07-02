@@ -28,7 +28,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
  - Thanks to [davelab6](https://github.com/davelab6 "Dave Crossland") for help
 
 ---
-# 衍生版本说明（你的修改声明）
+# 衍生版本说明（修改声明）
 本仓库字体 **数字N Expansion.ttf** 基于上方开源字体 Digital Numbers 二次修改衍生，完整遵循 SIL OFL-1.1 协议：
 1. 原字体全部版权归属原作者 Stephan Ahlf；
 2. 衍生字体已修改文件名，未沿用原字体名称发布；
