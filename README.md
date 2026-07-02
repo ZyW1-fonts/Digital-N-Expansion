@@ -1,7 +1,7 @@
 # Digital N Expansion Font
 
 [![Donate](http://s-a.github.io/donate/donate.svg)](http://s-a.github.io/donate/)  
-Digital Numbers is a not fixed width (web)font in a cool liquid-crystal display (LCD) style.
+Digital Numbers is a fixed width (web)font in a cool liquid-crystal display (LCD) style.
 
 ## Showcase
 
@@ -18,16 +18,19 @@ Digital Numbers is a not fixed width (web)font in a cool liquid-crystal display 
 
 After that a bundle of fonts should be available in `/dist/` folder.
 
-## License
-
+## Original License（原版版权）
 Copyright (c) 2015, Stephan Ahlf (https://github.com/s-a/digital-numbers-font stephan.ahlf@googlemail.com)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
-## Credits
+## Credits（原版致谢）
  - Font files created with [FontForge](http://fontforge.org)
  - Thanks to [davelab6](https://github.com/davelab6 "Dave Crossland") for help
 
- - 本字体基于第三方开源字体二次修改发布，遵循 OFL-1.1 开源协议。
-原字体版权归原作者所有，修改后衍生字体仍完整附带 OFL.txt 许可证。
-允许免费商用、修改、分发，分发时需同步附带本OFL协议文件。
+---
+# 衍生版本说明（你的修改声明）
+本仓库字体 **数字N Expansion.ttf** 基于上方开源字体 Digital Numbers 二次修改衍生，完整遵循 SIL OFL-1.1 协议：
+1. 原字体全部版权归属原作者 Stephan Ahlf；
+2. 衍生字体已修改文件名，未沿用原字体名称发布；
+3. 仓库内置完整 `OFL.txt` 许可证文件；
+4. 本衍生字体允许免费商用、二次修改、分发，分发时必须附带 SIL OFL-1.1 许可证。
